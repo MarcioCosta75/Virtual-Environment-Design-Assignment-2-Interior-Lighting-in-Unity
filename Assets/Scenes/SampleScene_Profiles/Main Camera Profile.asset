@@ -1406,7 +1406,7 @@ MonoBehaviour:
     value: 0
   radius:
     overrideState: 1
-    value: 0
+    value: 0.01
   quality:
     overrideState: 1
     value: 4
